@@ -1,4 +1,4 @@
-<filters>
+﻿<filters>
 <item enabled="true">u=44262b03</item>
 <item enabled="true">u=348a35f2</item>
 <item enabled="true">u=8c2e9350</item>
@@ -998,6 +998,10 @@
 <item enabled="true">u=c1cf0d44</item>
 <item enabled="true">u=e4b49a87</item>
 <item enabled="true">u=beaa2987</item>
+<item enabled="true">u=88a822f5</item>
+<item enabled="true">u=56ca6790</item>
+<item enabled="true">u=506d0739</item>
+<item enabled="true">u=377de416</item>
 <item enabled="true">u=3638e5ca</item>
 <item enabled="true">u=667de0ba</item>
 <item enabled="true">u=20cb2a63</item>
@@ -2457,4 +2461,11 @@
 <item enabled="true">u=fae0d0c2</item>
 <item enabled="true">u=3d889742</item>
 <item enabled="true">u=495a2d15</item>
+<item enabled="true">u=11298536</item>
+<item enabled="true">u=11c69e8f</item>
+<item enabled="true">u=6e256a6e</item>
+<item enabled="true">u=a43118ba</item>
+<item enabled="true">u=a318e5a0</item>
+<item enabled="true">u=46d73c4</item>
+<item enabled="true">u=93fe97aa</item>
 </filters>
